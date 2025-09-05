@@ -8,14 +8,14 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "none") 
-API_HASH = os.environ.get("API_HASH", "none") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "none") 
+API_ID = os.environ.get("API_ID", "27128668") 
+API_HASH = os.environ.get("API_HASH", "cafec32c95a0e60889458c2a3a579978") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8148503651:AAE5LSbkFoLeFqYl9wLoHkoQU3XBuEsAbGk") 
 MONGO_URL = os.environ.get("MONGO_URL", "none")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "none")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "none")
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "none")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@kayuchatbot")
+OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "@mrvaish_loveee")
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "https://t.me/happyjanmastmi")
 UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
 
 
