@@ -23,7 +23,7 @@ bot = Client(
     "kayuchatbot" ,
     api_id = 27128668,
     api_hash = cafec32c95a0e60889458c2a3a579978 ,
-    bot_token = 8148503651:AAE5LSbkFoLeFqYl9wLoHkoQU3XBuEsAbGk
+    bot_token = "8148503651:AAE5LSbkFoLeFqYl9wLoHkoQU3XBuEsAbGk"
 )
 
 
