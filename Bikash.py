@@ -20,12 +20,11 @@ UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
 
 
 bot = Client(
-    "kayuchatbot" ,
+    "kayuchatbot",
     api_id = 27128668,
-    api_hash = cafec32c95a0e60889458c2a3a579978 ,
+    api_hash = "cafec32c95a0e60889458c2a3a579978",
     bot_token = "8148503651:AAE5LSbkFoLeFqYl9wLoHkoQU3XBuEsAbGk"
 )
-
 
 async def is_admins(chat_id: int):
     return [
@@ -47,7 +46,7 @@ async def start_(client: Client, message: Message):
 ┣❥︎ ♕︎𝐎𝐰𝐧𝐞𝐫♕︎   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{@mrvaish_loveee})
 ┣❥︎ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{UPDATES_CHANNEL})
 ┣❥︎ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{SUPPORT_GROUP})
-┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➪ » [𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+┣❥︎ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ➪ » [𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/@mrvaish_loveee)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
